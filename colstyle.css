@@ -1,0 +1,43 @@
+body {
+    background-color: #35383a;
+}
+header {
+    background-color: #558bba;
+    margin: -10px;
+    padding: 20px;
+}
+h1, h2 {
+    text-align:center;
+    color: white;
+}
+ul {
+    text-align:center;
+    list-style-type: none;
+    margin: -10px;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    margin-bottom:15px;
+}
+li {
+    display: inline;
+    color: #558bba;
+}
+.active{
+    color: white;
+    background-color:#558bba;
+}
+#row1, #row2 {
+    max-width: 600px;
+    margin:20px auto;
+}
+#color1, #color2, #color3 {
+    background: #73ad21;
+}
+.box {
+    border-radius:30px;
+    padding-top:30%;
+    width:30%;
+    margin: 1.5%;
+    float:left;
+}
